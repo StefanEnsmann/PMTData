@@ -32,4 +32,4 @@ jobs:
           **/.git*
           **/.git*/**
           **/node_modules/**
-          **/.py
+          **/*.py
